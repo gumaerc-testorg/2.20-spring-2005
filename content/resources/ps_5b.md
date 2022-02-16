@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes referenced supplementry problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-20-marine-hydrodynamics-13-021-spring-2005/aa515a8a9faee0f045dd62dfb2324ee8_ps_5b.pdf
+file: /media/courses/2-20-marine-hydrodynamics-13-021-spring-2005/aa515a8a9faee0f045dd62dfb2324ee8_ps_5b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps_5b.pdf
 uid: aa515a8a-9fae-e0f0-45dd-62dfb2324ee8

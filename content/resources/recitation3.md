@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes information on DA and model testing, Buckingham?s
   P theorem examples, and importance of SP?s.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-20-marine-hydrodynamics-13-021-spring-2005/a5de198516a020a80cb78871eb72e062_recitation3.pdf
+file: /media/courses/2-20-marine-hydrodynamics-13-021-spring-2005/a5de198516a020a80cb78871eb72e062_recitation3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: recitation3.pdf
 uid: a5de1985-16a0-20a8-0cb7-8871eb72e062

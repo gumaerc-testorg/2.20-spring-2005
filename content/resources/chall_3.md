@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes information on Navier-Stokes equations, and vorticity.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-20-marine-hydrodynamics-13-021-spring-2005/dd347f185bfccff193eeaa6f3d94fc5d_chall_3.pdf
+file: /media/courses/2-20-marine-hydrodynamics-13-021-spring-2005/dd347f185bfccff193eeaa6f3d94fc5d_chall_3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: chall_3.pdf
 uid: dd347f18-5bfc-cff1-93ee-aa6f3d94fc5d

@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes the following topics - Discussion on viscous stresses,
   Navier-Stokes equations, and Boundary Conditions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-20-marine-hydrodynamics-13-021-spring-2005/1ca2256ce5f7a6ce1b3b42d4f8198e84_lecture4.pdf
+file: /media/courses/2-20-marine-hydrodynamics-13-021-spring-2005/1ca2256ce5f7a6ce1b3b42d4f8198e84_lecture4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture4.pdf
 uid: 1ca2256c-e5f7-a6ce-1b3b-42d4f8198e84
