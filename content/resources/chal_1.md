@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6ce3c0ef-aa05-c666-e55d-905e597c8e4d
 resourcetype: Document
 title: chal_1.pdf
 uid: a969f508-e59d-cd80-b651-87510e860695

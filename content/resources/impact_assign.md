@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d7f3f8b-a8f4-e271-62e1-a3c078d4074d
 resourcetype: Document
 title: impact_assign.pdf
 uid: 627d26ab-0610-3491-9100-586515ed573a

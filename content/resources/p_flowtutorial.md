@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 1b7b5244-5bb2-888f-234a-c30570f2d271
 resourcetype: Document
 title: P_FLowTutorial.pdf
 uid: 6b1534fb-9c69-30a1-2f57-6696453ba3df

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 1b7b5244-5bb2-888f-234a-c30570f2d271
 resourcetype: Other
 title: PartialReflection.zip
 uid: 685d8007-79b3-8e8a-e5c5-a01ff8031d5a

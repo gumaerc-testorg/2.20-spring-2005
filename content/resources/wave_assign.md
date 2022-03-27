@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d7f3f8b-a8f4-e271-62e1-a3c078d4074d
 resourcetype: Document
 title: wave_assign.pdf
 uid: 7059ea6a-2e1d-12c8-33ed-8174cc29f719

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 1b7b5244-5bb2-888f-234a-c30570f2d271
 resourcetype: Document
 title: AMassTutorial.pdf
 uid: 160c5cf2-d91b-c8fe-0eb2-b388c233c62f
