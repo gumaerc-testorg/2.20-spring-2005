@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The tools section contains the detailed list of the software packages
+  required for the course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -38,10 +40,10 @@ TUTORIALS
 [P-Flow](/ans7870/2/2.20/f05/tools/PFlowV3.5_v2/PFlowV35.html)
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/pflowv35)) (The ZIP file contains: 2 .jar files, and 1 .html file.)
+({{% resource_link cd64252f-ef7e-ef2e-f1e8-d6ef89ce8dc3 "ZIP" %}}) (The ZIP file contains: 2 .jar files, and 1 .html file.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/p_flowtutorial))
+({{% resource_link 6b1534fb-9c69-30a1-2f57-6696453ba3df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,10 +52,10 @@ TUTORIALS
 [AMass](/ans7870/2/2.20/f05/tools/AMass3DV1.4/AMass3D.html)
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/amass3dv14)) (The ZIP file contains: 1 .jar file, and 1 .html file.)
+({{% resource_link 1d400fed-dbf8-3db8-972f-54afd7691c93 "ZIP" %}}) (The ZIP file contains: 1 .jar file, and 1 .html file.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/amasstutorial))
+({{% resource_link 160c5cf2-d91b-c8fe-0eb2-b388c233c62f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +64,7 @@ TUTORIALS
 [Wave Partial Reflection](/ans7870/2/2.20/f05/tools/PartialReflection/PartialReflectionb.html)
 {{< tdclose >}}
 {{< tdopen >}}
-([ZIP]({{< baseurl >}}/resources/partialreflection)) (The ZIP file contains: 6 .class files, 2 .html files, and 3 .jpg files.)
+({{% resource_link 685d8007-79b3-8e8a-e5c5-a01ff8031d5a "ZIP" %}}) (The ZIP file contains: 6 .class files, 2 .html files, and 3 .jpg files.)
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The labs section contains lab information, report policy, and the assignment.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -50,7 +51,7 @@ ASSIGNMENTS
 A
 {{< tdclose >}}
 {{< tdopen >}}
-High-Speed Free-Surface Impact Hydrodynamics ([PDF]({{< baseurl >}}/resources/impact_assign))
+High-Speed Free-Surface Impact Hydrodynamics ({{% resource_link 627d26ab-0610-3491-9100-586515ed573a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +60,7 @@ High-Speed Free-Surface Impact Hydrodynamics ([PDF]({{< baseurl >}}/resources/im
 B
 {{< tdclose >}}
 {{< tdopen >}}
-Surface Wave Kinematics and Added Resistance of Ship in Waves ([PDF]({{< baseurl >}}/resources/wave_assign))
+Surface Wave Kinematics and Added Resistance of Ship in Waves ({{% resource_link 7059ea6a-2e1d-12c8-33ed-8174cc29f719 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

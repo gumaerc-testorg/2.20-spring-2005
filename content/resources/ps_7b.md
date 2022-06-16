@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-20-marine-hydrodynamics-13-021-spring-2005/9de277453930d9d71a37d1ffd8944f4e_ps_7b.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/9de277453930d9d71a37d1ffd8944f4e_ps_7b.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
