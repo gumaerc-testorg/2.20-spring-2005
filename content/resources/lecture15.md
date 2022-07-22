@@ -6,6 +6,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/b2489842703d64695919
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture15.pdf
 uid: b2489842-703d-6469-5919-9c7ac8265119
 ---
 This resource includes information potential flow theory, form drag, boundary layers, and flow separation.
-

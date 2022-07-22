@@ -6,6 +6,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/61c509012855409ac056
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps_2a.pdf
 uid: 61c50901-2855-409a-c056-a9bf5b15a064
 ---
 This resource includes problems on velocity vector, Stokes? theorem, and divergence theorem.
-

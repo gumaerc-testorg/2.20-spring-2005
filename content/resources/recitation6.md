@@ -5,6 +5,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/b348672dd360601c8002
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: recitation6.pdf
 uid: b348672d-d360-601c-8002-156c1b51d743
 ---
 This resource includes information on P-flow summary, and added mass.
-

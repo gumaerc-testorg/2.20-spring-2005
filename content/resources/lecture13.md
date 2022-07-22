@@ -6,6 +6,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/8cbeec5d21796f2a0edf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture13.pdf
 uid: 8cbeec5d-2179-6f2a-0edf-94df0f4ede86
 ---
 This resource includes the following topics - General 6 Degrees of Freedom Motions, Added Mass Tensor, and Generalized Forces and Moments.
-

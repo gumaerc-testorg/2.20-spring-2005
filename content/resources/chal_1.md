@@ -6,6 +6,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/a969f508e59dcd80b651
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chal_1.pdf
 uid: a969f508-e59d-cd80-b651-87510e860695
 ---
 This resource includes problems on transport theorm, mass flow rates, and conversion of momentum.
-

@@ -6,6 +6,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/da46016bf32b89d3a895
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: recitation9.pdf
 uid: da46016b-f32b-89d3-a895-9cdbf760569f
 ---
 This resource includes information on laminar boundary layers, and model testing.
-

@@ -5,6 +5,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/479c92a2035dbc6821fa
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: recitation5.pdf
 uid: 479c92a2-035d-bc68-21fa-01e5c4b2e447
 ---
 This resource includes information on P-flow.
-

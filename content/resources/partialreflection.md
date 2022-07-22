@@ -5,6 +5,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/685d800779b38e8ae5c5
 file_type: application/zip
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PartialReflection.zip
 uid: 685d8007-79b3-8e8a-e5c5-a01ff8031d5a
 ---
 This resource includes a special file required in the course.
-

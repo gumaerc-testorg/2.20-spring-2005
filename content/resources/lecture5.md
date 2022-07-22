@@ -6,6 +6,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/3f698b912390a5b3b5e1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture5.pdf
 uid: 3f698b91-2390-a5b3-b5e1-e14d61534cdd
 ---
 This resource includes the following topics - Equal Ratios, Dimensional Analysis, and Model Law.
-

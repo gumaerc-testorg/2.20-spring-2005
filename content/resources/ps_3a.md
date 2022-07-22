@@ -5,6 +5,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/eb35c0aafe3b3956a6cb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps_3a.pdf
 uid: eb35c0aa-fe3b-3956-a6cb-0c0d77e178bd
 ---
 This resource includes problems on kinamatic transport theorem.
-

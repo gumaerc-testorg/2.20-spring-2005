@@ -6,6 +6,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/36b5cfbdf8d07d1a0593
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: recitation1.pdf
 uid: 36b5cfbd-f8d0-7d1a-0593-e704140b2451
 ---
 This resource provides references on einstein notation, vector Calculus, taylor series expansion, and total (material) derivative.
-

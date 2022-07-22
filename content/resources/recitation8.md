@@ -6,6 +6,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/822ca2e1ca6c1df32dbc
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: recitation8.pdf
 uid: 822ca2e1-ca6c-1df3-2dbc-d05f2a856549
 ---
 This resource includes information on displacement thickness, and momentum thickness.
-

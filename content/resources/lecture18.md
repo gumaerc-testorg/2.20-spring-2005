@@ -6,6 +6,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/fabd8584c83416faf99e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture18.pdf
 uid: fabd8584-c834-16fa-f99e-4f566fd4bdab
 ---
 This resource includes information on reynolds stress, turbulent boundary layer over a smooth flat plate, and summery.
-

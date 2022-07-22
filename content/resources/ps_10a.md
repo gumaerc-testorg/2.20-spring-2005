@@ -5,6 +5,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/e539e39e3fb738a397c5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps_10a.pdf
 uid: e539e39e-3fb7-38a3-97c5-f068b0a6c3d0
 ---
 This resource includes supplement problems.
-

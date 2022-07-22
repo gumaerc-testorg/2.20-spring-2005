@@ -5,6 +5,7 @@ file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/c665188f46700dc30a8e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps_6.pdf
 uid: c665188f-4670-0dc3-0a8e-b4fb8b30853e
 ---
 This resource includes referenced supplementry problems.
-
