@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The assignments section contains work policy and the problem sets.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 6ce3c0ef-aa05-c666-e55d-905e597c8e4d
 ---
@@ -32,7 +36,7 @@ PART B
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Supplemental Problems (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/supp04))
+Supplemental Problems ({{% resource_link f36c0d25-447c-a6fb-200a-00025052a75d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -44,7 +48,7 @@ Supplemental Problems (![This resource may not render correctly in a screen read
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps_1))
+Problem Set 1 ({{% resource_link 57b3423a-0a11-bd91-d524-89e3f60674f4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -59,10 +63,10 @@ Problem Set 1 (![This resource may not render correctly in a screen reader.](/im
 Problem Set 2
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps_2a))
+({{% resource_link 61c50901-2855-409a-c056-a9bf5b15a064 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_2b))
+({{% resource_link b7305aeb-9715-165b-e7b7-c5a9364fc839 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,10 +75,10 @@ Problem Set 2
 Problem Set 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_3a))
+({{% resource_link eb35c0aa-fe3b-3956-a6cb-0c0d77e178bd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps_3b))
+({{% resource_link 5ec7703e-1f50-f725-ae7f-1850db262344 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,10 +87,10 @@ Problem Set 3
 Problem Set 4
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps_4a))
+({{% resource_link 0ed5bfee-3d16-5faf-2826-1933b60f2949 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_4b))
+({{% resource_link 33332bbf-d952-dc03-4d02-684ab74b1236 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,16 +99,16 @@ Problem Set 4
 Problem Set 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_5a))
+({{% resource_link a40dc472-62c4-1700-5928-1af74062a19d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_5b))
+({{% resource_link aa515a8a-9fae-e0f0-45dd-62dfb2324ee8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps_6))
+Problem Set 6 ({{% resource_link c665188f-4670-0dc3-0a8e-b4fb8b30853e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -119,10 +123,10 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps_6))
 Problem Set 7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_7a))
+({{% resource_link e75ded6a-bb16-5a13-cb6c-f0678e4d264a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_7b))
+({{% resource_link 9de27745-3930-d9d7-1a37-d1ffd8944f4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,10 +135,10 @@ Problem Set 7
 Problem Set 8
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_8a))
+({{% resource_link 07c8f24e-a010-c643-f6cd-5488d5f95ca4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_8b))
+({{% resource_link 8cd49c89-aec4-56bd-82e3-c9ff05d972f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,10 +147,10 @@ Problem Set 8
 Problem Set 9
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_9a))
+({{% resource_link 2ca1f329-6b63-dd37-f0d1-9a42158b52be "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_9b))
+({{% resource_link 986bd2e7-0840-7ac5-8369-fccc9da1c563 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,10 +159,10 @@ Problem Set 9
 Problem Set 10
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_10a))
+({{% resource_link e539e39e-3fb7-38a3-97c5-f068b0a6c3d0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_10b))
+({{% resource_link 076d2cc1-a74f-fb5c-0ada-0efa63cb1b7f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,16 +171,16 @@ Problem Set 10
 Problem Set 11
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_11a))
+({{% resource_link 05de98ad-5552-427c-dc4f-9346b16eb1af "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_11b))
+({{% resource_link 8f2bbb5e-a890-47fa-ce80-e92ef1a94df3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 12 ([PDF]({{< baseurl >}}/resources/ps_12))
+Problem Set 12 ({{% resource_link 35c32d61-5d39-1f23-f958-9a640f0a8275 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -191,10 +195,10 @@ Problem Set 12 ([PDF]({{< baseurl >}}/resources/ps_12))
 Problem Set 13
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_13a))
+({{% resource_link b5e0cf94-24fe-eb95-1edd-3ee1c29ccf03 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_13b))
+({{% resource_link 95c05298-1fb3-bd3f-1a8e-b6c6dca7790f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +207,7 @@ Problem Set 13
 Problem Set 14
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps_14a))
+({{% resource_link 0e036e5c-24f5-a9be-4624-8200917e6a7e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -212,19 +216,7 @@ Problem Set 14
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Challenge 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chal_1))
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Challenge 2 ([PDF]({{< baseurl >}}/resources/chall_2))
+Challenge 1 ({{% resource_link a969f508-e59d-cd80-b651-87510e860695 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -236,7 +228,19 @@ Challenge 2 ([PDF]({{< baseurl >}}/resources/chall_2))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Challenge 3 ([PDF]({{< baseurl >}}/resources/chall_3))
+Challenge 2 ({{% resource_link c08b0911-bb1e-1636-84a2-8367513910c3 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Challenge 3 ({{% resource_link dd347f18-5bfc-cff1-93ee-aa6f3d94fc5d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

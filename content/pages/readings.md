@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The reading section contains the required readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 21164505-7e37-a289-dc77-cc11cd2f3fb0
 ---
@@ -15,7 +19,7 @@ Sabersky, R. H., A. J. Acosta, E. G. Hauptmann, and E. M. Gates. _Fluid Flow_. 4
 Recommended Readings
 --------------------
 
-The following abbreviations will be used to indicate the textbook and recommended reading sections. The topics in the table below closely approximate those in the [calendar]({{< baseurl >}}/pages/calendar).
+The following abbreviations will be used to indicate the textbook and recommended reading sections. The topics in the table below closely approximate those in the {{% resource_link 603a8d9d-493d-8270-af92-3b3f2ed75c84 "calendar" %}}.
 
 JNN - Newman, _Marine Hydrodynamics_
 
