@@ -11,7 +11,7 @@ uid: 21164505-7e37-a289-dc77-cc11cd2f3fb0
 Texts
 -----
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262140263) Newman, J. N. [_Marine Hydrodynamics_](https://mitpress.mit.edu/9780262140263). Cambridge, MA: MIT Press, 1977. ISBN: 9780262140263.  
+{{% resource_link "271c01d6-37fb-41ac-bb29-41b7e3b9d73a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Newman, J. N. {{% resource_link "271c01d6-37fb-41ac-bb29-41b7e3b9d73a" "_Marine Hydrodynamics_" %}}. Cambridge, MA: MIT Press, 1977. ISBN: 9780262140263.  
 (Not required - an old edition will do, however, readings are assigned.)
 
 Sabersky, R. H., A. J. Acosta, E. G. Hauptmann, and E. M. Gates. _Fluid Flow_. 4th ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 9780135763728.
