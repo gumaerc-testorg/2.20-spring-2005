@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample final exam problems with solutions.
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/51c7cc49d73850d5bae097137188992d_final_solutions.pdf
+file_size: 281011
 file_type: application/pdf
 learning_resource_types:
 - Exams

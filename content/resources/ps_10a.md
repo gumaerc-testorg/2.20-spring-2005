@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes supplement problems.
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/e539e39e3fb738a397c5f068b0a6c3d0_ps_10a.pdf
+file_size: 44738
 file_type: application/pdf
 learning_resource_types:
 - Assignments

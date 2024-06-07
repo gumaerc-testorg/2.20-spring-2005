@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on vorticity line, tube, ring, flux,
   and cheat sheet on G, ?, u.
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/06a660396c7f17cd3c8db7e868182684_recitation4.pdf
+file_size: 11849
 file_type: application/pdf
 learning_resource_types:
 - Recitations

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes referenced supplementry problems.
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/076d2cc1a74ffb5c0ada0efa63cb1b7f_ps_10b.pdf
+file_size: 44732
 file_type: application/pdf
 learning_resource_types:
 - Assignments
