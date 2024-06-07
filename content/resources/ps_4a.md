@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes problems on fluid flow.
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/0ed5bfee3d165faf28261933b60f2949_ps_4a.pdf
+file_size: 48224
 file_type: application/pdf
 learning_resource_types:
 - Assignments

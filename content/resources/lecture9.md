@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes the following topics - Potential Flow, and Navier-Stokes
   equations.
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/dc382bb85a7a4f14f71edc7f95393365_lecture9.pdf
+file_size: 200882
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
