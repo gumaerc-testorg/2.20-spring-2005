@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on the 2.20 Java P-FLOW applet, which
   will be used as a tool to solve homework problems.
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/6b1534fb9c6930a12f576696453ba3df_P_FLowTutorial.pdf
+file_size: 34624
 file_type: application/pdf
 learning_resource_types:
 - Tools

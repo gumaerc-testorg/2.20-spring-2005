@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes references to dispertion relation.
 file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/afe106b0fa2112b43bc2e05bb99ad193_recitation11.pdf
+file_size: 11302
 file_type: application/pdf
 learning_resource_types:
 - Recitations
