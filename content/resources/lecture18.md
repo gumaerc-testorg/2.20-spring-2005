@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on reynolds stress, turbulent boundary
   layer over a smooth flat plate, and summery.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/fabd8584c83416faf99e4f566fd4bdab_lecture18.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/fabd8584c83416faf99e4f566fd4bdab_lecture18.pdf
 file_size: 123439
 file_type: application/pdf
 learning_resource_types:

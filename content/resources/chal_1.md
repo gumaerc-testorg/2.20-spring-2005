@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes problems on transport theorm, mass flow rates,
   and conversion of momentum.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/a969f508e59dcd80b65187510e860695_chal_1.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/a969f508e59dcd80b65187510e860695_chal_1.pdf
 file_size: 45449
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes problem on Navier-Stokes equation, and pressure
   gradient.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/c08b0911bb1e163684a28367513910c3_chall_2.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/c08b0911bb1e163684a28367513910c3_chall_2.pdf
 file_size: 49678
 file_type: application/pdf
 learning_resource_types:

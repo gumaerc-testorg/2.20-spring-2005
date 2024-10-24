@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on strouhal number, drag on a very
   streamlined body, and known solutions of the navier-stokes equations.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/a3e133727b50505f1c1403f1929ca5db_lecture16.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/a3e133727b50505f1c1403f1929ca5db_lecture16.pdf
 file_size: 345575
 file_type: application/pdf
 learning_resource_types:

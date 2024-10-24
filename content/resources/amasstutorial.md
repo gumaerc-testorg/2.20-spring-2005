@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/160c5cf2d91bc8fe0eb2b388c233c62f_AMassTutorial.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/160c5cf2d91bc8fe0eb2b388c233c62f_AMassTutorial.pdf
 file_size: 70454
 file_type: application/pdf
 learning_resource_types:
