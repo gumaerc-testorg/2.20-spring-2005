@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on steady flow over a flat plate,
   and flow qver a body of general geometry.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/fd819b8f3f21ac0da13ffa4ea390e1ac_lecture17.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/fd819b8f3f21ac0da13ffa4ea390e1ac_lecture17.pdf
 file_size: 220159
 file_type: application/pdf
 learning_resource_types:

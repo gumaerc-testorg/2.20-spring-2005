@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a special file required in the course.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/1d400feddbf83db8972f54afd7691c93_AMass3DV14.zip
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/1d400feddbf83db8972f54afd7691c93_AMass3DV14.zip
 file_size: 67301
 file_type: application/zip
 learning_resource_types:
