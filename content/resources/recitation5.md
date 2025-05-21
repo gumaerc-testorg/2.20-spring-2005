@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on P-flow.
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/479c92a2035dbc6821fa01e5c4b2e447_recitation5.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/479c92a2035dbc6821fa01e5c4b2e447_recitation5.pdf
 file_size: 11708
 file_type: application/pdf
 learning_resource_types:

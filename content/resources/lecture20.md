@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes the following topics - Exact (Nonlinear) Governing
   Equations for Surface Gravity Waves, Assuming Potential Flow, Linearized (Airy)
   Wave Theory, and Characteristics of a Linear Plane Progressive Wave.
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/5d48a5937971d973fd8ca90c051a83f8_lecture20.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/5d48a5937971d973fd8ca90c051a83f8_lecture20.pdf
 file_size: 275422
 file_type: application/pdf
 learning_resource_types:
