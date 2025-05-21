@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a special file required in the course.
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/685d800779b38e8ae5c5a01ff8031d5a_PartialReflection.zip
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/685d800779b38e8ae5c5a01ff8031d5a_PartialReflection.zip
 file_size: 279170
 file_type: application/zip
 learning_resource_types:

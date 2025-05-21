@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/e75ded6abb165a13cb6cf0678e4d264a_ps_7a.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/e75ded6abb165a13cb6cf0678e4d264a_ps_7a.pdf
 file_size: 47245
 file_type: application/pdf
 learning_resource_types:

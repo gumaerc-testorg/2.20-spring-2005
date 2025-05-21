@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes the following topics - 2D Symmetric Streamlined
   Body, Asymmetric Body, Potential Flow and Kutta Condition, and Thin Wing, Small
   Angle of Attack.
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/862b2520f2e4a9ca3f7ff666ef5e21b9_lecture12.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/862b2520f2e4a9ca3f7ff666ef5e21b9_lecture12.pdf
 file_size: 203172
 file_type: application/pdf
 learning_resource_types:

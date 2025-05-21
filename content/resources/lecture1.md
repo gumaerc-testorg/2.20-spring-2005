@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the introduction of the course.
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/0069b42c6cf95102c01035a7a812d1f7_lecture1.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/0069b42c6cf95102c01035a7a812d1f7_lecture1.pdf
 file_size: 98250
 file_type: application/pdf
 learning_resource_types:
