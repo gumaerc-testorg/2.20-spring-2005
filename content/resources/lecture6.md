@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the following topics - Similarity Parameters from
   Physical Arguments, and Importance of SP's.
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/194d0c712563b80ac46a0d8ecb9bf647_lecture6.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/194d0c712563b80ac46a0d8ecb9bf647_lecture6.pdf
 file_size: 187978
 file_type: application/pdf
 learning_resource_types:

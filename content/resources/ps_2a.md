@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes problems on velocity vector, Stokes? theorem,
   and divergence theorem.
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/61c509012855409ac056a9bf5b15a064_ps_2a.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/61c509012855409ac056a9bf5b15a064_ps_2a.pdf
 file_size: 57968
 file_type: application/pdf
 learning_resource_types:

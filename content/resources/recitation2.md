@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on material derivative, material volume,
   and guidelines for CV analysis.
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/0516a6518b91faab9bef20d1536352b3_recitation2.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/0516a6518b91faab9bef20d1536352b3_recitation2.pdf
 file_size: 17222
 file_type: application/pdf
 learning_resource_types:

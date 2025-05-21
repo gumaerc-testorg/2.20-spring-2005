@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on laminar boundary layers, and model
   testing.
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/da46016bf32b89d3a8959cdbf760569f_recitation9.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/da46016bf32b89d3a8959cdbf760569f_recitation9.pdf
 file_size: 13107
 file_type: application/pdf
 learning_resource_types:

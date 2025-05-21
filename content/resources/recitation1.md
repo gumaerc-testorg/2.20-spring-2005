@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides references on einstein notation, vector Calculus,
   taylor series expansion, and total (material) derivative.
-file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/36b5cfbdf8d07d1a0593e704140b2451_recitation1.pdf
+file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/36b5cfbdf8d07d1a0593e704140b2451_recitation1.pdf
 file_size: 16437
 file_type: application/pdf
 learning_resource_types:
