@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes problems on constitutive relation, conservative
   mechanical system, linear impulse, and angular momentum.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/57b3423a0a11bd91d52489e3f60674f4_ps_1.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/57b3423a0a11bd91d52489e3f60674f4_ps_1.pdf
 file_size: 48418
 file_type: application/pdf
 learning_resource_types:
