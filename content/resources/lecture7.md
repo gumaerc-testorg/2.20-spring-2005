@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the following topics - Governing Equations and
   Boundary Conditions for Ideal Flow, Circulation ? Kelvin's Theorem, and Vorticity.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/45397036c9b058c97cf569e904e53d2e_lecture7.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/45397036c9b058c97cf569e904e53d2e_lecture7.pdf
 file_size: 145235
 file_type: application/pdf
 learning_resource_types:

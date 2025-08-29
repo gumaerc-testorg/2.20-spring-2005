@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on displacement thickness, and momentum
   thickness.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/822ca2e1ca6c1df32dbcd05f2a856549_recitation8.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/822ca2e1ca6c1df32dbcd05f2a856549_recitation8.pdf
 file_size: 11932
 file_type: application/pdf
 learning_resource_types:

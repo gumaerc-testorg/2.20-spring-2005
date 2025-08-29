@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information potential flow theory, form drag,
   boundary layers, and flow separation.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/b2489842703d646959199c7ac8265119_lecture15.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/b2489842703d646959199c7ac8265119_lecture15.pdf
 file_size: 162663
 file_type: application/pdf
 learning_resource_types:

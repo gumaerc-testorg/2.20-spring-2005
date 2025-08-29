@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes referenced supplementry problems.
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/b5e0cf9424feeb951edd3ee1c29ccf03_ps_13a.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/b5e0cf9424feeb951edd3ee1c29ccf03_ps_13a.pdf
 file_size: 54964
 file_type: application/pdf
 learning_resource_types:
