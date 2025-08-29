@@ -4,7 +4,7 @@ description: 'This resource includes horizontal forces on fully submerged cylind
   in oscillatory flow
 
   scope, and linear water waves.'
-file: /courses/2-20-marine-hydrodynamics-13-021-spring-2005/1710b102b3cf14a5f02796c933592c5a_recitation10.pdf
+file: /ol-ocw-studio-app/courses/2-20-marine-hydrodynamics-13-021-spring-2005/1710b102b3cf14a5f02796c933592c5a_recitation10.pdf
 file_size: 13400
 file_type: application/pdf
 learning_resource_types:

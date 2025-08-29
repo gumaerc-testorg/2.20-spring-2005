@@ -2,7 +2,7 @@
 content_type: page
 description: The labs section contains lab information, report policy, and the assignment.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 6d7f3f8b-a8f4-e271-62e1-a3c078d4074d
